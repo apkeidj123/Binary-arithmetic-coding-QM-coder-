@@ -15,7 +15,9 @@ Table 1: State Change of Binary Arithmetic Coder
 |   3   |   4B85   | 0.41643  |         1         |         1         |
 |   4   |   4639   | 0.38722  |         1         |         1         |
 
-
+.
+.
+.
 
 S means that MPS and LPS must exchange because we made a wrong guess. For example,
 if MPS=’1’, we change MPS from ‘1’ to ‘0’ when the encoder encounters “S.”
